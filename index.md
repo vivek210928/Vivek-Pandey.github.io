@@ -4,9 +4,9 @@ layout: default
 ---
 
 # Vivek Pandey
-Professor of Economics | Development Policy | Field Experiments
+Professor of Economics | Dean (Faculty) | Chair (Verghese Kurien Policy Lab)
 
-Welcome! I study development policy, field experiments, survey data quality, and digital finance.
+Welcome! I study development policy, survey data quality, and digital finance with the help of field experiments and machine learning.
 
 ## Updates
 - Oct 2025: Draft “Agentic feedback in enumerator training” now online.
