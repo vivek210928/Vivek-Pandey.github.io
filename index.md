@@ -26,5 +26,5 @@ Welcome! I study survey data quality, self-help groups, and digital finance.
 - Causal AI/ML for Policy
 
 ## Contact
-- Email: yourname@domain
+- Email: eco.vivek@gmail.com
 - Google Scholar | ORCID | LinkedIn
