@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Vivek Pandey
-Professor of Economics | Development & Policy | Field Experiments
+Professor of Economics | Development Policy | Field Experiments
 
 Welcome! I study survey data quality, self-help groups, and digital finance.
 
