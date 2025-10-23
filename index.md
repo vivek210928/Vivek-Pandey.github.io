@@ -6,7 +6,7 @@ layout: default
 # Vivek Pandey
 Professor of Economics | Development Policy | Field Experiments
 
-Welcome! I study survey data quality, self-help groups, and digital finance.
+Welcome! I study development policy, field experiments, survey data quality, and digital finance.
 
 ## Updates
 - Oct 2025: Draft “Agentic feedback in enumerator training” now online.
